@@ -1,6 +1,6 @@
 # Notepad
 
-![Screenshot (30)](https://user-images.githubusercontent.com/73656057/103506489-d3240400-4e82-11eb-84c0-9d14b790db8e.png)
+![Screenshot (30)](https://user-images.githubusercontent.com/73656057/103507327-eafc8780-4e84-11eb-9ce8-63cf3d5dbdeb.png)
 
 ![Screenshot (36)](https://user-images.githubusercontent.com/73656057/103506769-8a207f80-4e83-11eb-81be-7281e3f29d3b.png)
 
